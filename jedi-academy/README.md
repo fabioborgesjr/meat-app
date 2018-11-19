@@ -1,4 +1,4 @@
-# JediAcademy
+# Projetinho para estudo do Angular 6 pela Udemy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
