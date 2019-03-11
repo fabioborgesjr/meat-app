@@ -6,9 +6,17 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RatingComponent implements OnInit {
 
+  rates: number[] = [1,2,3,4,5];
+
+  rate: number = 0;
+
   constructor() { }
 
   ngOnInit() {
+  }
+
+  setRate (rate: number) {
+    this.rate = rate;
   }
 
 }
